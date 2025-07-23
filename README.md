@@ -7,4 +7,4 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 # Fernando
 
 
-## Este curso de MiguelDev
+## Curso de Fernando en Udemy
